@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+.row{
+    text-align: right;
+    margin: 5px;
+    padding: 2px;
+}
+button{
+width: 65px;
+height: 52px;
+font-size: 22px;
+font-weight: 600;
+border-radius: 5px;
+cursor: pointer;
+margin: 2px 0;
+border: 1px solid black;
+}
+
+
+.button1{
+    background-color: red;
+    color: white;
+}
+.button-equal{
+    background-color: green;
+}
+.input{
+    text-align: center;
+    color: black;
+    border:2px solid black;
+    border-radius: 5px;
+    font-size: 2rem;
+    text-align: right;
+    box-sizing: border-box;
+    width: 400px;
+    height: 100px;
+    
+    pointer-events: none;
+}
+body
+{
+    height: 530px;
+    width:410px ;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 4px 4px 30px rgba(0,0,0,0.3);
+    margin-left: 40%;
+    margin-top: 40px;
+    border-radius: 12px;
+    box-sizing: border-box;
+    border: 5px solid black;
+}
